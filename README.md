@@ -1,9 +1,23 @@
 # Bomba Scratch ⚽🥅
 
+O jogo foi inspirado e feito em homenagem ao nosso querido Rio de Janeiro e seu característico futebol. Outra clara inspiração foi o Bomba Patch.
 
-O Bomba Scratch é um jogo de futebol multiplayer local 1v1, com a temática do futebol carioca. Nele, é possível escolher entre as quatro principais equipes do Rio de Janeiro, tendo um jogador cômico como representante de seus respectivos times na vida real.
+# Perebas Edition 🎮
 
-O projeto foi desenvolvido por mim (João Marquardt), Pedro do Amaral e João Lourenço no ano letivo de 2020, para um trabalho de programação do CEFET/RJ.
+Seu foco, além do futebol, é a comicidade e valorização do território e cultura carioca. 
+Combinando esses três pilares optamos que as estrelas do projeto fossem jogadores ruins dos 4 principais clubes do estado. 
+Além de apresentar imagens e ícones que remetem à cidade maravilhosa.
 
-# Segue o link do jogo: 
+# Pode vir pro Bomba Scratch! 🙅‍♂️
+
+Por conta de sua outra inspiração maior o jogo apresenta um forte lado musical. Nos menus é tocada uma música autoral, composta por João Victor Lourenço Borges, satirizando a inspiração no Bomba Patch e os jogadores presentes no jogo. Além disso, são tocadas paródias divertidas após a vitória de cada um dos jogadores.
+A própria capa do jogo é inspirada no antigo jogo, também. 
+
+# Segue o link para o jogo: 🔗
 https://scratch.mit.edu/projects/537667756/
+
+# Desenvolvedores 👨‍💻🖱
+
+- João Victor Borges Marquardt 
+- João Victor Lourenço Borges
+- Pedro do Amaral Rangel <a href="https://github.com/PedrimAr"><img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/PedrimAr" width="45"></a>
