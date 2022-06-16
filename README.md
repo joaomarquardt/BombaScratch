@@ -5,4 +5,5 @@ O Bomba Scratch é um jogo de futebol multiplayer local 1v1, com a temática do 
 
 O projeto foi desenvolvido por mim (João Marquardt), Pedro do Amaral e João Lourenço no ano letivo de 2020, para um trabalho de programação do CEFET/RJ.
 
-Segue o link do jogo: https://scratch.mit.edu/projects/537667756/
+# Segue o link do jogo: 
+https://scratch.mit.edu/projects/537667756/
