@@ -1,4 +1,4 @@
-# Bomba Scratch
+# Bomba Scratch ⚽🥅
 
 
 O Bomba Scratch é um jogo de futebol multiplayer local 1v1, com a temática do futebol carioca. Nele, é possível escolher entre as quatro principais equipes do Rio de Janeiro, tendo um jogador cômico como representante de seus respectivos times na vida real.
