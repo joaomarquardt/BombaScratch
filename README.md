@@ -21,3 +21,5 @@ https://scratch.mit.edu/projects/537667756/
 - João Victor Borges Marquardt 
 - João Victor Lourenço Borges
 - Pedro do Amaral Rangel <a href="https://github.com/PedrimAr" target="_blank" rel="external"><img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/PedrimAr" width="45"></a>
+
+Projeto de programação do CEFET/RJ, feito no ano letivo de 2020 com a linguagem Scratch.
